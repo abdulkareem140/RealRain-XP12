@@ -1,0 +1,5 @@
+* text=auto
+*.xpl binary
+*.lib binary
+skunkcrafts_updater*.txt text eol=lf
+skunkcrafts_updater.cfg text eol=lf

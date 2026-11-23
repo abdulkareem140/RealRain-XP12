@@ -1,0 +1,5 @@
+name|RealRain XP12
+module|https://raw.githubusercontent.com/abdulkareem140/RealRain-XP12/main/release/RealRain
+version|@PROJECT_VERSION@
+locked|false
+zone|custom
